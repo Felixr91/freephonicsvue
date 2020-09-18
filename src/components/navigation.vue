@@ -49,11 +49,6 @@
                         <h6>Vowel Pairs</h6>
                     </a>
                 </li>
-                <li>
-                    <a class="nav-link">
-                        <h6>some shit</h6>
-                    </a>
-                </li>
             </ul>
         </div>
     </div>
