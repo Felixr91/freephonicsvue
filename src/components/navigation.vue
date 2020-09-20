@@ -7,7 +7,7 @@
                 <router-link to="/">
                     <h1 style=" color: #fdfd9e;
                             mix-blend-mode: overlay;
-                            font-size: 10rem;
+                            
                             font-weight: 700;">Freephonics</h1>
                 </router-link>
             </div>
